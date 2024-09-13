@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ctionril.github.io/sitemap.html.gz
+Sitemap: https://ctionril.github.io/app/sitemap.html.gz
+Sitemap: https://ctionril.github.io/assets/sitemap.html.gz
+Sitemap: https://ctionril.github.io/css/sitemap.html.gz
+Sitemap: https://ctionril.github.io/includes/sitemap.html.gz
+Sitemap: https://ctionril.github.io/item/sitemap.html.gz
+Sitemap: https://ctionril.github.io/src/sitemap.html.gz
